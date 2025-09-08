@@ -46,8 +46,11 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="(https://github-readme-activity-graph.vercel.app/graph?username=sheikhdawood)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="snake gif"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhdawood&theme=react-dark" alt="GitHub Activity Graph" />
+  </a>
 </p>
+
 ---
 
 ## 😂 Random Meme
