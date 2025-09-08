@@ -52,7 +52,7 @@
 
 ## 😂 Random Meme
 <p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="Random Meme" height="300"/>
+  <img src="https://i.imgflip.com/30b1gx.jpg" alt="Random Meme" height="300"/>
 </p>
 
 ---
