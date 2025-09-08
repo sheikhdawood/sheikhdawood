@@ -46,9 +46,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <a href="https://github.com/sheikhdawood/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhdawood&theme=react-dark" alt="GitHub Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhdawood&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
