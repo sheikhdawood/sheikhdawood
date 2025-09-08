@@ -2,15 +2,15 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animated AI Banner" height="200"/>
 </p>
 
-# 👋 Hey, I'm **[Your Name]**
+# 👋 Hey, I'm **Dawood**
 
 💻 Senior AI/ML Engineer | 🚀 Chaos Wrangler | 🌱 Lifelong Learner  
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently building: **AI-powered RAG Systems, Business Document Analyzers & chaos**  
-- 🌱 Exploring: **Generative AI, Cloud-native Deployments, LLMs, and DevOps wizardry**  
+- 🔭 Currently building: **AI-powered RAG Systems & Business Document Analyzers**  
+- 🌱 Exploring: **Generative AI, LLMs, Cloud-native deployments, and DevOps wizardry**  
 - 💡 Passionate about: **AI Ethics, Multilingual NLP, and teaching machines to behave**  
 - 🎯 Goal: **Build scalable AI systems that don’t crash (or at least make it entertaining)**  
 
@@ -20,7 +20,7 @@
 
 **Languages & Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp" height="50"/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,huggingface" height="50"/>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" height="50"/>
 </p>
@@ -38,23 +38,21 @@
 ## 🔥 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| [Vid2Rag](#) | AI-powered video → insights | 🔗 |
-| [Smart Chart Dashboard](#) | Charts smarter than humans | 🔗 |
-| [Multilingual Quran Translator](#) | NLP magic across languages | 🔗 |
+| [Vid2Rag](https://github.com/sheikhdawood/Vid2Text-RAG) | AI-powered video → insights | 🔗 |
+| [Smart Chart Dashboard](https://github.com/sheikhdawood/SmartChartDashboard) | Charts smarter than humans | 🔗 |
+| [Multilingual Quran Translator](https://github.com/sheikhdawood/AI-based-translation) | NLP magic across languages | 🔗 |
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sheikhdawood/sheikhdawood/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="(https://github-readme-activity-graph.vercel.app/graph?username=sheikhdawood)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="snake gif"/>
 </p>
-
-
 ---
 
 ## 😂 Random Meme
 <p align="center">
-  <img src="[https://i.imgflip.com/65efzo.gif](https://i.imgflip.com/30b1gx.jpg)" alt="Random Meme" height="300"/>
+  <img src="https://i.imgflip.com/65efzo.gif" alt="Random Meme" height="300"/>
 </p>
 
 ---
@@ -62,7 +60,7 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/dawood-ayoob-sheikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/_sheikhdawood"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/_sheikhdawood"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://dawoodayoobshiekh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -74,11 +72,4 @@
 ---
 
 ### ⚡ Fun Tip
-If my commits look messy, it’s because genius often is. 😎  
-
----
-
-### Optional Enhancements You Can Add:
-1. **Dynamic LLM badge**  
-```markdown
-![LLM Skills](https://img.shields.io/badge/LLM-GPT2/GPT3/Gemini-blue)
+If my commits look messy, it’s because genius often is. 😎
