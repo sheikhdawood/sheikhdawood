@@ -55,7 +55,7 @@
 
 ## 😂 Random Meme
 <p align="center">
-  <img src="[https://i.imgflip.com/30b1gx.jpg](https://i.programmerhumor.io/2025/09/0e1c6f0a68cbe19ae7056bd9c8ed2a5563336ca2a1ff92ca78c57b6a3fc2154d.jpeg)" alt="Random Meme" height="300"/>
+  <img src="https://i.programmerhumor.io/2025/09/0e1c6f0a68cbe19ae7056bd9c8ed2a5563336ca2a1ff92ca78c57b6a3fc2154d.jpeg" alt="Random Meme" height="300"/>
 </p>
 
 ---
