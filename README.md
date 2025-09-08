@@ -1,78 +1,84 @@
-# 👋 Yo, I'm **Sir** (yes, that's actually my name here)
-
-💻 Senior AI/ML Engineer | 🚀 Builder of cool things (and occasional chaos) | 🌱 Professional bug breeder  
-
----
-
-### 🚀 About Me
-- 🔭 Currently wrangling **AI-powered Business Document Analyzers & RAG Systems** (because PDFs deserve some respect too)  
-- 🌱 Drowning in **Generative AI, DevOps, and Cloud-Native AI deployment** (send help… or more GPUs)  
-- 💡 Passionate about **AI Ethics, LLMs, and Multilingual NLP** (aka making machines talk in multiple languages without starting WW3)  
-- 🎯 Life Goal: **Build impactful AI systems that scale in the real world** (and don’t crash during demos)  
-
----
-
-### 🛠️ Tech Stack (aka my weapons of choice)  
-
-**Languages I speak (fluently, unlike humans):**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-**AI/ML Wizardry:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge&logo=chainlink&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)  
-
-**Cloud/DevOps (because "it works on my machine" isn’t enough):**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-
----
-
-### 📊 GitHub Stats (because who doesn’t love flexing?)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhdawood&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhdawood&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animated AI Banner" height="200"/>
+</p>
+
+# 👋 Hey, I'm **[Your Name]**
+
+💻 Senior AI/ML Engineer | 🚀 Chaos Wrangler | 🌱 Lifelong Learner  
+
+---
+
+## 🧠 About Me
+- 🔭 Currently building: **AI-powered RAG Systems, Business Document Analyzers & chaos**  
+- 🌱 Exploring: **Generative AI, Cloud-native Deployments, LLMs, and DevOps wizardry**  
+- 💡 Passionate about: **AI Ethics, Multilingual NLP, and teaching machines to behave**  
+- 🎯 Goal: **Build scalable AI systems that don’t crash (or at least make it entertaining)**  
+
+---
+
+## 🛠️ My Arsenal
+
+**Languages & Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,huggingface" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" height="50"/>
 </p>
 
 ---
 
-### 🔥 Featured Projects (aka my digital children)
-- 📈 [Vid2Rag](https://github.com/sheikhdawood/Vid2Text-RAG) – *Because your videos deserve a brain too*  
-- 📊 [Smart Chart Dashboard](https://github.com/YOUR_GITHUB_USERNAME/SmartChartDashboard) – *Charts that actually make sense (sometimes)*  
-- 🌍 [Multilingual Quran Translator](https://github.com/sheikhdawood/AI-based-translation) – *Teaching AI to understand God-level Arabic*  
-
----
-
-### 📫 Stalk Me Here  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawood-ayoob-sheikh)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_sheikhdawood)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dawoodayoobshiekh.netlify.app)  
-
----
-
-### 🐍 Watch me flex with a snake (eating my commits)  
-![snake gif](https://github.com/sheikhdawood/sheikhdawood/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-### 😂 Random Meme (refresh = new meme!)  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://meme-api.com/gimme" alt="Random Meme" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### ✨ Quote to live (or die) by
-> *“Code. Learn. Share. Break things. Fix them. Repeat.”*  
+## 🔥 Featured Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| [Vid2Rag](#) | AI-powered video → insights | 🔗 |
+| [Smart Chart Dashboard](#) | Charts smarter than humans | 🔗 |
+| [Multilingual Quran Translator](#) | NLP magic across languages | 🔗 |
 
 ---
 
-### ⚡ Optional: Pro Tip  
-If you’re here just to judge my commits… don’t worry, they’re judged too. 😎  
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sheikhdawood/sheikhdawood/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
 
 ---
 
+## 😂 Random Meme
+<p align="center">
+  <img src="[https://i.imgflip.com/65efzo.gif](https://i.imgflip.com/30b1gx.jpg)" alt="Random Meme" height="300"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/[YourLinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/[YourTwitter]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://[YourPortfolio].netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Motto
+> *“Code. Break. Learn. Share. Repeat… and maybe cry a little.”*
+
+---
+
+### ⚡ Fun Tip
+If my commits look messy, it’s because genius often is. 😎  
+
+---
+
+### Optional Enhancements You Can Add:
+1. **Dynamic LLM badge**  
+```markdown
+![LLM Skills](https://img.shields.io/badge/LLM-GPT2/GPT3/Gemini-blue)
