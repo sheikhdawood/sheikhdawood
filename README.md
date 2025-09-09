@@ -38,8 +38,8 @@
 ## 🔥 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| [Vid2Rag](https://github.com/sheikhdawood/Vid2Text-RAG) | AI-powered video → insights | 🔗 |
-| [Smart Chart Dashboard](https://github.com/sheikhdawood/SmartChartDashboard) | Charts smarter than humans | 🔗 |
+| [Voxify](https://github.com/sheikhdawood/Voxify) | AI-powered video → insights | 🔗 |
+| [Smart Chart Dashboard](https://github.com/sheikhdawood/ateendance_management) | Charts smarter than humans | 🔗 |
 | [Multilingual Quran Translator](https://github.com/sheikhdawood/AI-based-translation) | NLP magic across languages | 🔗 |
 
 ---
