@@ -53,7 +53,7 @@
 
 ## 😂 Random Meme
 <p align="center">
-  <img src="https://i.programmerhumor.io/2025/09/0e1c6f0a68cbe19ae7056bd9c8ed2a5563336ca2a1ff92ca78c57b6a3fc2154d.jpeg" alt="Random Meme" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTEwbDExMzJ6a3R0N3hzZmVjOGNwdHhsbnUyanM4MGVwZTM2Z20yaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6arSJwtKZBtWCRzg6d/giphy.gif" alt="Random Meme" height="300"/>
 </p>
 
 ---
