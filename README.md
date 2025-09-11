@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djJvYzVoNXh0Mnd4bzNianlpaTBpdHp6anNncGcyMzFzODU2ZGM0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xiA2jT6bS1Z84Z5HFz/giphy.gif" alt="Animated AI Banner" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWdvYXFjMndkaWJiZG9ueHBqZG9xMHB2Z2xxbDE0Ym8yOWJya3VtbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N2ge2f3nyJ9rg4gZLN/giphy.gif" alt="Animated AI Banner" height="200"/>
 </p>
 
 # 👋 Hey, I'm **Dawood**
