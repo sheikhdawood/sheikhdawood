@@ -1,15 +1,3 @@
----
-
-## 🌐 Website
-<p align="center">
-  <a href="https://dawoodayoobshiekh.netlify.app">
-    <img src="https://img.shields.io/badge/My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGplZGxpdGdvenlrYWI5NzZrOGo3N2RsMTMybzB4amY4aDIwM3V0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Animated AI Banner" height="200"/>
 </p>
