@@ -53,7 +53,7 @@
 
 ## 😂 Random Meme
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFxZWF1eWluZmh3cWx0eWtqMnQxcm5ueTh1Njk0MDdwMGd2bmVrZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lxxOGaDRk4f7R5TkBd/giphy.gif" alt="Random Meme" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTEwbDExMzJ6a3R0N3hzZmVjOGNwdHhsbnUyanM4MGVwZTM2Z20yaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6arSJwtKZBtWCRzg6d/giphy.gif" alt="Random Meme" height="300"/>
 </p>
 
 ---
